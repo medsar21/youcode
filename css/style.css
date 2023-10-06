@@ -33,6 +33,7 @@ header{
 	background: transparent;
 	padding: 30px 18%;
 	transition: ease .40s;
+	background-color: #6e54fa;
 }
 .logo{
 	font-size: 35px;
